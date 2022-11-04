@@ -1,4 +1,4 @@
-import CrudOperations from "../curdOpertions/moongodbDrud.js";
+import CrudOperations from "../curdOpertions/moongodbCrud.js";
 import {Ticket,Chat}from "../model/schema.js";
 class TicketController{
      createTicket(req,res){
